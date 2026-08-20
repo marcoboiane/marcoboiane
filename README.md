@@ -1,4 +1,4 @@
-# Olá, eu sou Marco!
+# Olá, eu sou Marco! ✋
 
 💻 Desenvolvedor Front-end em constante evolução, apaixonado por tecnologia e por transformar ideias em interfaces modernas, rápidas e funcionais.
 
